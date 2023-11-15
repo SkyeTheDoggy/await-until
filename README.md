@@ -11,7 +11,7 @@ npm intall @qskye/await-until
 ## Usage
 
 ```js
-const { awaitUntil } = require('await-until');
+const { awaitUntil } = require('@qskye/await-until');
 
 const conditionFn = () => 5 > 0;
 
