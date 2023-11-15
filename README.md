@@ -2,7 +2,7 @@
 
 A simple function that waits until a condition is met.
 
-## Instaltion
+## Installation
 
 ```sh
 npm intall @qskye/await-until
