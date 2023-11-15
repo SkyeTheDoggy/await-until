@@ -5,7 +5,7 @@ A simple function that waits until a condition is met.
 ## Installation
 
 ```sh
-npm intall @qskye/await-until
+npm i @qskye/await-until
 ```
 
 ## Usage
