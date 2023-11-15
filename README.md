@@ -2,6 +2,12 @@
 
 A simple function that waits until a condition is met.
 
+## Instaltion
+
+```sh
+npm intall @qskye/await-until
+```
+
 ## Usage
 
 ```js
