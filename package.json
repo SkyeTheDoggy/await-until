@@ -1,0 +1,26 @@
+{
+  "name": "await-until",
+  "version": "1.0.0",
+  "description": "A function that waits until a condition is met.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkyeUwU/await-until.git"
+  },
+  "keywords": [
+    "await",
+    "until",
+    "wait",
+    "async",
+    "asynchronous"
+  ],
+  "author": "SkyeTheDoggy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SkyeUwU/await-until/issues"
+  },
+  "homepage": "https://github.com/SkyeUwU/await-until#readme"
+}
