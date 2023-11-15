@@ -1,5 +1,5 @@
 {
-  "name": "await-until",
+  "name": "@qskye/await-until",
   "version": "1.0.0",
   "description": "A function that waits until a condition is met.",
   "main": "index.js",
