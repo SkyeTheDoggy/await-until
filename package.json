@@ -1,6 +1,6 @@
 {
   "name": "@qskye/await-until",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A function that waits until a condition is met.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SkyeUwU/await-until.git"
+    "url": "git+https://github.com/SkyeTheDoggy/await-until.git"
   },
   "keywords": [
     "await",
@@ -20,7 +20,7 @@
   "author": "SkyeTheDoggy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SkyeUwU/await-until/issues"
+    "url": "https://github.com/SkyeTheDoggy/await-until/issues"
   },
-  "homepage": "https://github.com/SkyeUwU/await-until#readme"
+  "homepage": "https://github.com/SkyeTheDoggy/await-until#readme"
 }
